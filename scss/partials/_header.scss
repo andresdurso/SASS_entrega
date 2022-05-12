@@ -1,0 +1,14 @@
+$color: rgba(117, 78, 161, 0.473); 
+
+header{
+    background-color: $color;
+    nav{
+        text-align: center;
+        a{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            &:hover{
+                color: $color;
+            }
+        }
+    }
+}
