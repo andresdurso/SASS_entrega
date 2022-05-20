@@ -1,8 +1,8 @@
 header {
-  background-color: rgba(255, 251, 37, 0.719); }
+  background-color: lemonchiffon; }
   header nav {
     text-align: center; }
     header nav a {
       font-family: Verdana, Geneva, Tahoma, sans-serif; }
       header nav a:hover {
-        color: rgba(27, 7, 83, 0.671); }
+        color: rgba(50, 209, 18, 0.671); }
